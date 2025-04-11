@@ -1,5 +1,3 @@
-# Weather Station Project
-
 ## Main Purpose
 A wirelessly communicating weather station with two ESP-32 boards, AHT20 humidity and temperature sensor, and LCD display. Please see github page for the code used to program the ESP-32 Microcontrollers.
 
