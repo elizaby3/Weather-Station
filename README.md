@@ -23,3 +23,5 @@ In this image, the ESP-32 transmitter board (distinguished by the green sticky n
 ![](https://github.com/elizaby3/Weather-Station/blob/main/images/receiver.jpg?raw=true)
 
 In this image, the ESP-32 receiver board (distinguished by the orange stickynote) is connected to the LCD display via I2C protocol where the I2C display updates every 10 seconds to display the humidity and temperature inside of the room along with the time of day.
+
+[Link to Main Projects Page](https://elizaby3.github.io)
